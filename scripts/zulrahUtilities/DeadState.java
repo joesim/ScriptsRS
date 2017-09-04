@@ -1,0 +1,5 @@
+package scripts.zulrahUtilities;
+
+public enum DeadState {
+	WALKTOSTAIRS, CLICKSTAIRS1, CLICKSTAIRS2, WALKTOBANK, CLICKBANK, WITHDRAWTELE, TELEPORTZUL
+}

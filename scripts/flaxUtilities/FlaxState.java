@@ -1,0 +1,5 @@
+package scripts.flaxUtilities;
+
+public enum FlaxState {
+	GO_SPIN, WAIT, BANK, CLICK_MM_BANK, CLICK_BANK, CLICK_DEPOSIT, WITHDRAW_FLAX, CLICK_MM_STAIRS, INTERFACE 
+}
